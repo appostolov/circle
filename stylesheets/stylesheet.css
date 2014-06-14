@@ -10,12 +10,20 @@ body{
 	position:absolute;
 	width:100%;
 	height:100%;
-	text-align:center;
 	background:#ccf;
 }
 
 #can{
 	position:relative;
-	top:20%;
 	border:1px solid black;
+	float:left;
+	background:white;
+}
+
+#menu{
+	position:relative;
+	width:200px;
+	height:auto;
+	background:silver;
+	float:left;
 }
